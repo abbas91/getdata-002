@@ -1,14 +1,14 @@
-###Coursera - Getting and Cleaning Data
+### Coursera - Getting and Cleaning Data
 ======================================
- #### Objective : 
+#### Objective : 
  The purpose of this script is to clean the data set for further analaysis. 
 File to run_analysis.R
 
- #### Requirements:
+#### Requirements:
  - Download the dataset from this URL (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip
  - Set Working directory to this folder to run_anlaysis.R script
 
-####Script flow :
+#### Script flow :
 
 -Data from test and train files are loaded and combined (Subject,Labels)
 
@@ -20,6 +20,6 @@ File to run_analysis.R
 
 -tidydata is output to a file named tidydata.txt
 
-####Output:
+#### Output:
 
 After being run, run_analysis.R ,output of the tidy data set in a text file named tidydata.txt in the directory it was run from.
